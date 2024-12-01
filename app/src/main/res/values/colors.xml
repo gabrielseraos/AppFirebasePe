@@ -1,0 +1,17 @@
+<resources>
+    <!-- Cores Primárias -->
+    <color name="primaryColor">#FF9800</color> <!-- Roxo -->
+    <color name="primaryVariantColor">#3700B3</color> <!-- Roxo Escuro -->
+    <color name="secondaryColor">#03DAC6</color> <!-- Verde Aqua -->
+
+    <!-- Cores de Fundo -->
+    <color name="surfaceColor">#FFFFFF</color> <!-- Branco -->
+    <color name="backgroundColor">#F5F5F5</color> <!-- Cinza Claro -->
+
+    <!-- Cores de Texto -->
+    <color name="onPrimaryColor">#FFFFFF</color> <!-- Branco -->
+    <color name="onSurfaceColor">#000000</color> <!-- Preto -->
+
+    <!-- Adicionais -->
+    <color name="errorColor">#B00020</color> <!-- Vermelho para Erros -->
+</resources>
